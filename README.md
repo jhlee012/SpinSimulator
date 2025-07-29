@@ -1,2 +1,3 @@
-# KrunkerSpinTester
-C++ Krunker Spin Tester File. Need C++ vcredist
+# Spin Simulator
+Need C++ vcredist
+From online io game called 'krunker'
